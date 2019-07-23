@@ -2,7 +2,7 @@
 # Bienvenidos a mi **proyecto**
 ## Son pruebas en **_git_**
 
-Lo siguiente es una ~lista indexada~ con una por puntos
+Lo siguiente es -una- ~lista indexada~ con una por puntos
 1. elem1
 2. elem2
 3. elem3
