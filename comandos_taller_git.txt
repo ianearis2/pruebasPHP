@@ -1,0 +1,6 @@
+Taller de git. Comandos.
+--------------------------
+2. 
+git init  
+3.
+
