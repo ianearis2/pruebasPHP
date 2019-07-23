@@ -1,6 +1,35 @@
 Taller de git. Comandos.
 --------------------------
 2. 
-git init  
+	git init  
 3.
+(Hecho en notepad++)
+4. 
+Añadir al stage:
+	git add .
+Realizar el primer commit
+	git commit -m "Creación del readme"
+5.
+	mkdir logs
+	(hoy.log y historia.log creados con notepad ++)
+6.
+	cd logs
+	git add hoy.log
+7. 
+	git commit -m "Creamos el archivo hoy.log"
+8. 
+Dentro de .gitignore añadido:
+	logs\historia.log
+9.
+	git add .gitignore
+	git commit -m "Solo .gitignore"
+10.
+	(borrada la carpeta logs)
+	(borrado archivo .gitignore)
+11.
+	git checkout -f
+	
+	
+El archivo historia.log no aparece porque lo hemos ignorado explícitamente en 
+los commits. hemos añadido archivos sueltos y además está en el .ignore
 
